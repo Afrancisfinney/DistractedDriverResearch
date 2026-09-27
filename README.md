@@ -21,7 +21,7 @@ This repository contains my research on using Machine Learning to identify distr
 - **Key Result:** Achieved 72.25% accuracy with the Decision Tree model.
 
 ## Dataset
-The dataset consists of 2,000 images. Due to file size, it is hosted on Google Drive: [Link to your Drive]
+The dataset consists of 2,000 images. Due to file size, it is hosted on Google Drive: [Link to your Drive](https://drive.google.com/drive/folders/1q6ttb00k3MoBo3dfip5kbbnwxKD0rspN?usp=sharing)
 
 ## Technical Stack
 Python, Scikit-Learn, NumPy, Pandas, Matplotlib.
